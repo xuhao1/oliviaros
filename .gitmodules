@@ -1,0 +1,3 @@
+[submodule "scripts/mavasync"]
+	path = scripts/mavasync
+	url = https://github.com/xuhao1/mavasync.git
