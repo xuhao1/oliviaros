@@ -1,0 +1,11 @@
+Header Header
+int64 time_usec
+int64 fix_type
+int64 lat
+int64 lon
+int64 alt
+int64 eph
+int64 epv
+int64 vel
+int64 cog
+int64 satellites_visible
